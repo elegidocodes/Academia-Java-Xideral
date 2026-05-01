@@ -29,6 +29,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-src/semana1
 src/semana2
 src/semana3
