@@ -29,5 +29,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-src/semana2
-src/semana3
+src/semana3/libejercicio
